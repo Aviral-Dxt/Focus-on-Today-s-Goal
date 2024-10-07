@@ -1,0 +1,56 @@
+body{
+    background: #f2faed;
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+}
+
+#mainHeading{
+     color: #49a203;
+}
+
+#span-1{
+    color:#60481d ;
+} 
+
+.head{
+    text-align: center;
+}
+.main{
+   
+   width: 40%;
+   margin: auto;
+   margin-top: 50px;
+}
+
+.container{
+  background: whitesmoke;
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+ 
+#sun{
+    margin-left: 10px;
+    border-radius: 30px;
+    vertical-align: middle;
+}
+
+
+#progress-level{
+    color: #858585;
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+.progress-bar {
+    height: 25px;
+    background: #e9f1e2;
+    border-radius: 20px;
+}
+.progrss-value{
+
+    height: 100%;
+    width: 66%;
+    background: #48a300;
+    border-radius: 20px;
+}
